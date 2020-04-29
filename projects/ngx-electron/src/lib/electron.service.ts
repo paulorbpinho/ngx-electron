@@ -1,4 +1,4 @@
-import * as Electron from 'electron';
+import * as Electron from '../../desktop';
 import { ElectronWindow } from './typings/electron.window';
 
 declare let window: ElectronWindow;
