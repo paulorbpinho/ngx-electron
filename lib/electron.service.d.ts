@@ -1,4 +1,4 @@
-import * as Electron from '../../desktop';
+import * as Electron from '../../../desktop';
 export declare class ElectronService {
     private _electron;
     private readonly electron;
